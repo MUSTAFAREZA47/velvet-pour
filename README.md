@@ -61,7 +61,7 @@ gsap_cocktails-main/
 1. **Clone the repository**
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/MUSTAFAREZA47/velvet-pour.git
     cd gsap_cocktails-main
     ```
 
